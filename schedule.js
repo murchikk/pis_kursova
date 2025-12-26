@@ -1,4 +1,4 @@
-const WORKLOAD_NORMS = { min: 6, max: 20 };
+const WORKLOAD_NORMS = { min: 6, max: 24 };
 
 const teachersDB = [
     {
